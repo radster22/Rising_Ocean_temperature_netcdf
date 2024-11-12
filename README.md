@@ -1,4 +1,4 @@
-# Rising_Ocean_temperature_netcdf
+# Is YOUR ocean temperature rising?
 
 The goal of this assignment is to use publicly available data to refute or to validate the claim that
 ocean temperatures are rising. While vast amounts of data is available, our ability to consume
@@ -51,3 +51,5 @@ measure. In my case I trained 1982-Jan-1 to 2020-Jan-1 and tested the prediction
 data for 2021-Jan-1 through 2024-Jan-1.
 
 Please ensure that the test data is NOT included in your training data.
+
+Reference: https://data.marine.copernicus.eu/product/SST_MED_SST_L4_REP_OBSERVATIONS_010_021/description

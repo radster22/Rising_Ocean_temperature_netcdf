@@ -33,6 +33,8 @@ The extract_sst_data function iterates through the file-paths and gets the sst i
 specified lat-long. I have provided a utility function find_nearest as exact matches of your
 lat-long may not always be available [if interested in the practical side of ocean data collection,
 please research moorings and drifters]
+![image](https://github.com/user-attachments/assets/c8adf09b-da95-49aa-a2b3-57497cf2e5bd)
+
 
 **4.0 Create single data frame (and optimally write out as csv):**
 The process_years function loops through each of the file_paths (each of the years), gets the
